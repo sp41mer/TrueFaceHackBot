@@ -1,0 +1,755 @@
+2017-08-19 14:32:25,917 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:32:25,921 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:32:26,679 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 400 110
+2017-08-19 14:32:42,294 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:32:42,297 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:32:56,043 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:32:56,047 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:33:00,069 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 57
+2017-08-19 14:33:00,074 - telegram.bot - DEBUG - True
+2017-08-19 14:33:00,074 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:33:00,075 - root - INFO - WebHook was set
+2017-08-19 14:33:00,104 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:33:00,116 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:33:05,028 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:33:05,031 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:33:05,710 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:33:05,712 - telegram.bot - DEBUG - True
+2017-08-19 14:33:05,712 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:33:05,713 - root - INFO - WebHook was set
+2017-08-19 14:33:05,727 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:33:05,747 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:33:10,765 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:33:10] "GET / HTTP/1.1" 200 -
+2017-08-19 14:33:11,298 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:33:11] "GET /favicon.ico HTTP/1.1" 404 -
+2017-08-19 14:33:36,969 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:33:36,970 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:33:37,610 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 365
+2017-08-19 14:33:37,634 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:33:37,636 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:33:37] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:43:06,003 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:43:06,007 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:43:06,669 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:43:06,671 - telegram.bot - DEBUG - True
+2017-08-19 14:43:06,671 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:43:06,672 - root - INFO - WebHook was set
+2017-08-19 14:43:06,692 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:43:06,698 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:43:11,540 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:43:11,544 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:43:12,232 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:43:12,236 - telegram.bot - DEBUG - True
+2017-08-19 14:43:12,237 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:43:12,237 - root - INFO - WebHook was set
+2017-08-19 14:43:12,255 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:43:12,279 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:43:17,577 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:43:17] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:43:19,862 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:43:19] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:43:24,240 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:43:24] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:43:35,951 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:43:35,955 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:43:36,606 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:43:36,608 - telegram.bot - DEBUG - True
+2017-08-19 14:43:36,609 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:43:36,609 - root - INFO - WebHook was set
+2017-08-19 14:43:36,624 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:43:36,628 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:43:41,412 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:43:41,415 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:43:42,064 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:43:42,066 - telegram.bot - DEBUG - True
+2017-08-19 14:43:42,067 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:43:42,067 - root - INFO - WebHook was set
+2017-08-19 14:43:42,081 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:43:42,103 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:44:02,857 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:44:02,859 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:44:03,509 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 384
+2017-08-19 14:44:03,527 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:44:03,538 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:44:03] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:44:09,615 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:44:09,791 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 384
+2017-08-19 14:44:09,802 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:44:09,803 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:44:09] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:47:33,694 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 14:47:33,891 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:47:38,963 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:47:38,966 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:47:39,632 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:47:39,634 - telegram.bot - DEBUG - True
+2017-08-19 14:47:39,634 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:47:39,635 - root - INFO - WebHook was set
+2017-08-19 14:47:39,654 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:47:39,678 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:51:25,194 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:51:25,197 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:51:25,820 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:51:25,822 - telegram.bot - DEBUG - True
+2017-08-19 14:51:25,822 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:51:25,823 - root - INFO - WebHook was set
+2017-08-19 14:51:25,841 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:51:25,845 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:51:30,381 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:51:30,385 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:51:31,092 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:51:31,094 - telegram.bot - DEBUG - True
+2017-08-19 14:51:31,095 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:51:31,095 - root - INFO - WebHook was set
+2017-08-19 14:51:31,111 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:51:31,133 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:51:40,986 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:51:40] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:51:43,312 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:51:43] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:51:47,643 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:51:47] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:51:55,937 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:51:55] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 14:52:14,871 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:52:14,875 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:52:15,542 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:52:15,544 - telegram.bot - DEBUG - True
+2017-08-19 14:52:15,544 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:52:15,545 - root - INFO - WebHook was set
+2017-08-19 14:52:15,564 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:52:15,569 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:52:20,067 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:52:20,071 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:52:20,696 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:52:20,698 - telegram.bot - DEBUG - True
+2017-08-19 14:52:20,699 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:52:20,699 - root - INFO - WebHook was set
+2017-08-19 14:52:20,718 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:52:20,741 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:52:26,052 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:52:26,053 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:52:26,709 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 273
+2017-08-19 14:52:26,711 - telegram.bot - DEBUG - {'chat': {'id': 62877910, 'username': 'mistergorearhitektorsmit', 'type': 'private', 'first_name': 'Alexander', 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'delete_chat_photo': False, 'message_id': 9, 'text': 'null', 'date': 1503179546, 'new_chat_photo': [], 'new_chat_members': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'entities': [], 'new_chat_member': None, 'photo': [], 'group_chat_created': False, 'channel_chat_created': False}
+2017-08-19 14:52:26,712 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:52:26,713 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:52:26] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:52:44,561 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:52:44,729 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 274
+2017-08-19 14:52:44,730 - telegram.bot - DEBUG - {'chat': {'id': 62877910, 'username': 'mistergorearhitektorsmit', 'type': 'private', 'first_name': 'Alexander', 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'delete_chat_photo': False, 'message_id': 10, 'text': 'null', 'date': 1503179564, 'new_chat_photo': [], 'new_chat_members': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'entities': [], 'new_chat_member': None, 'photo': [], 'group_chat_created': False, 'channel_chat_created': False}
+2017-08-19 14:52:44,731 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:52:44,731 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:52:44] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:53:36,034 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:53:36,038 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:53:36,690 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:53:36,692 - telegram.bot - DEBUG - True
+2017-08-19 14:53:36,692 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:53:36,692 - root - INFO - WebHook was set
+2017-08-19 14:53:36,709 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:53:36,715 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:53:41,457 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:53:41,461 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:53:42,080 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:53:42,083 - telegram.bot - DEBUG - True
+2017-08-19 14:53:42,083 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:53:42,083 - root - INFO - WebHook was set
+2017-08-19 14:53:42,098 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:53:42,118 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:53:47,511 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:53:47,512 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:53:48,153 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 14:53:48,157 - telegram.bot - DEBUG - {'supergroup_chat_created': False, 'chat': {'type': 'private', 'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'id': 62877910, 'first_name': 'Alexander'}, 'date': 1503179628, 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'photo': [], 'entities': [], 'new_chat_member': None, 'group_chat_created': False, 'text': 'Do you still need help?', 'delete_chat_photo': False, 'new_chat_members': [], 'message_id': 12, 'new_chat_photo': [], 'channel_chat_created': False}
+2017-08-19 14:53:48,158 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:53:48,161 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:53:48] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:54:23,818 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:54:23,821 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:54:24,450 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:54:24,452 - telegram.bot - DEBUG - True
+2017-08-19 14:54:24,452 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:54:24,453 - root - INFO - WebHook was set
+2017-08-19 14:54:24,475 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:54:24,484 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 14:54:29,061 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:54:29,065 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:54:29,703 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:54:29,705 - telegram.bot - DEBUG - True
+2017-08-19 14:54:29,706 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:54:29,706 - root - INFO - WebHook was set
+2017-08-19 14:54:29,722 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 14:54:29,740 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 14:54:34,990 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 14:54:34,991 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:54:35,642 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 14:54:35,645 - telegram.bot - DEBUG - {'delete_chat_photo': False, 'group_chat_created': False, 'entities': [], 'photo': [], 'new_chat_member': None, 'date': 1503179675, 'chat': {'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'type': 'private', 'id': 62877910, 'first_name': 'Alexander'}, 'from': {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}, 'message_id': 14, 'new_chat_members': [], 'new_chat_photo': [], 'channel_chat_created': False, 'text': 'Do you still need help?', 'supergroup_chat_created': False}
+2017-08-19 14:54:35,647 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 14:54:35,650 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:54:35] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:54:38,833 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 14:54:38] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 14:59:57,453 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 14:59:57,456 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 14:59:58,116 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 14:59:58,118 - telegram.bot - DEBUG - True
+2017-08-19 14:59:58,118 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 14:59:58,118 - root - INFO - WebHook was set
+2017-08-19 14:59:58,136 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 14:59:58,141 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:00:02,677 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:00:02,683 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:00:03,307 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:00:03,310 - telegram.bot - DEBUG - True
+2017-08-19 15:00:03,310 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:00:03,310 - root - INFO - WebHook was set
+2017-08-19 15:00:03,325 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:00:03,347 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 15:01:09,608 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 15:01:09,609 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:01:10,262 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 15:01:10,265 - telegram.bot - DEBUG - {'new_chat_members': [], 'chat': {'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov', 'first_name': 'Alexander', 'username': 'mistergorearhitektorsmit'}, 'date': 1503180070, 'message_id': 17, 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'group_chat_created': False, 'entities': [], 'new_chat_member': None, 'channel_chat_created': False, 'text': 'Do you still need help?', 'new_chat_photo': [], 'delete_chat_photo': False, 'photo': [], 'supergroup_chat_created': False}
+2017-08-19 15:01:10,265 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 15:01:10,267 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:10] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:01:13,555 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:13] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:01:15,901 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:15] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:01:20,276 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:20] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:01:28,649 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:28] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:01:45,049 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:01:45] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:02:17,421 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:02:17] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:03:17,833 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:03:17] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:05:01,758 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:05:01] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:05:11,133 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:05:11] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:05:26,304 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:05:26] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 500 -
+2017-08-19 15:05:32,831 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:05:32,835 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:05:33,580 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:05:33,582 - telegram.bot - DEBUG - True
+2017-08-19 15:05:33,582 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:05:33,583 - root - INFO - WebHook was set
+2017-08-19 15:05:33,601 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 15:05:33,605 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:05:38,115 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:05:38,119 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:05:38,779 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:05:38,781 - telegram.bot - DEBUG - True
+2017-08-19 15:05:38,781 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:05:38,782 - root - INFO - WebHook was set
+2017-08-19 15:05:38,797 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:05:38,816 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 15:05:44,073 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:05:44] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:06:40,467 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:06:40] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:06:42,267 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:06:42] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:08:21,735 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 15:08:21,845 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:08:27,543 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:08:27,546 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:08:28,211 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:08:28,214 - telegram.bot - DEBUG - True
+2017-08-19 15:08:28,214 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:08:28,214 - root - INFO - WebHook was set
+2017-08-19 15:08:28,240 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:08:28,260 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 15:08:51,222 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:08:51,226 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:08:51,865 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:08:51,867 - telegram.bot - DEBUG - True
+2017-08-19 15:08:51,868 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:08:51,869 - root - INFO - WebHook was set
+2017-08-19 15:08:51,887 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 15:08:51,891 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:08:56,422 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:08:56,424 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:08:57,077 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:08:57,080 - telegram.bot - DEBUG - True
+2017-08-19 15:08:57,081 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:08:57,081 - root - INFO - WebHook was set
+2017-08-19 15:08:57,096 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:08:57,120 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 15:10:07,475 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 15:10:07,476 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:10:08,208 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 15:10:08,210 - telegram.bot - DEBUG - {'date': 1503180608, 'new_chat_members': [], 'group_chat_created': False, 'new_chat_photo': [], 'delete_chat_photo': False, 'photo': [], 'chat': {'type': 'private', 'first_name': 'Alexander', 'id': 62877910, 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'message_id': 22, 'entities': [], 'text': 'Do you still need help?', 'channel_chat_created': False, 'new_chat_member': None, 'from': {'first_name': 'HelpMeBot', 'id': 403419597, 'username': 'i_need_help_bot'}}
+2017-08-19 15:10:08,211 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 15:10:08,213 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:10:08] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:10:53,712 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:10:53,716 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:10:54,341 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:10:54,343 - telegram.bot - DEBUG - True
+2017-08-19 15:10:54,343 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:10:54,343 - root - INFO - WebHook was set
+2017-08-19 15:10:54,362 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 15:10:54,366 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:10:58,828 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:10:58,831 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:10:59,469 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:10:59,471 - telegram.bot - DEBUG - True
+2017-08-19 15:10:59,471 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:10:59,472 - root - INFO - WebHook was set
+2017-08-19 15:10:59,490 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:10:59,509 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 15:11:28,102 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 15:11:28,103 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:11:28,747 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 15:11:28,750 - telegram.bot - DEBUG - {'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'new_chat_photo': [], 'photo': [], 'message_id': 24, 'delete_chat_photo': False, 'channel_chat_created': False, 'group_chat_created': False, 'entities': [], 'supergroup_chat_created': False, 'text': 'Do you still need help?', 'new_chat_member': None, 'new_chat_members': [], 'chat': {'username': 'mistergorearhitektorsmit', 'id': 62877910, 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'type': 'private'}, 'date': 1503180688}
+2017-08-19 15:11:28,751 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 15:11:28,752 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:11:28] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:11:56,300 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 15:11:56] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 15:12:38,278 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 15:12:38,417 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 15:12:43,112 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 15:12:43,116 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 15:12:44,602 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 15:12:44,604 - telegram.bot - DEBUG - True
+2017-08-19 15:12:44,604 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 15:12:44,605 - root - INFO - WebHook was set
+2017-08-19 15:12:44,622 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 15:12:44,640 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:27:26,281 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:27:26,284 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:27:26,943 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:27:26,945 - telegram.bot - DEBUG - True
+2017-08-19 16:27:26,946 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:27:26,946 - root - INFO - WebHook was set
+2017-08-19 16:27:26,964 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:27:26,968 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:27:31,588 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:27:31,591 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:27:32,237 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:27:32,240 - telegram.bot - DEBUG - True
+2017-08-19 16:27:32,240 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:27:32,240 - root - INFO - WebHook was set
+2017-08-19 16:27:32,261 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:27:32,289 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:28:59,949 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:28:59,950 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:29:00,720 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 293
+2017-08-19 16:29:00,725 - telegram.bot - DEBUG - {'text': 'Do you still need help?', 'new_chat_member': None, 'new_chat_photo': [], 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'message_id': 27, 'new_chat_members': [], 'entities': [], 'date': 1503185341, 'photo': [], 'chat': {'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'id': 62877910, 'type': 'private', 'first_name': 'Alexander'}, 'supergroup_chat_created': False, 'group_chat_created': False, 'delete_chat_photo': False, 'channel_chat_created': False}
+2017-08-19 16:29:00,726 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:29:00,728 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:29:00] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:29:04,167 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:29:04] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:32:04,266 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 16:32:04,377 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:32:10,265 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:32:10,268 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:32:10,900 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:32:10,901 - telegram.bot - DEBUG - True
+2017-08-19 16:32:10,902 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:32:10,902 - root - INFO - WebHook was set
+2017-08-19 16:32:10,921 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:32:10,938 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:48:48,430 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:48:48,434 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:48:57,631 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 16:48:57,632 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10fa220f0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 16:48:57,632 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 16:49:02,798 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=1, connect=None, read=None, redirect=None)
+2017-08-19 16:49:02,800 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10fa220f0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 16:49:02,801 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3): api.telegram.org
+2017-08-19 16:49:16,780 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:49:16,783 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:49:17,410 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:49:17,412 - telegram.bot - DEBUG - True
+2017-08-19 16:49:17,412 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:49:17,413 - root - INFO - WebHook was set
+2017-08-19 16:49:17,446 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:49:17,454 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:49:22,303 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:49:22,306 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:49:22,932 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:49:22,934 - telegram.bot - DEBUG - True
+2017-08-19 16:49:22,934 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:49:22,935 - root - INFO - WebHook was set
+2017-08-19 16:49:22,951 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:49:22,980 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:50:16,833 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:50:16,834 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:50:17,524 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 16:50:17,526 - telegram.bot - DEBUG - {'supergroup_chat_created': False, 'entities': [], 'channel_chat_created': False, 'chat': {'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'id': 62877910, 'type': 'private'}, 'new_chat_member': None, 'photo': [], 'date': 1503186618, 'from': {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}, 'message_id': 30, 'new_chat_members': [], 'delete_chat_photo': False, 'new_chat_photo': [], 'group_chat_created': False, 'text': 'Need help ?'}
+2017-08-19 16:50:17,527 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:50:17,529 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:50:17] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:50:24,724 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:50:24,900 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 16:50:24,903 - telegram.bot - DEBUG - {'supergroup_chat_created': False, 'entities': [], 'channel_chat_created': False, 'chat': {'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'id': 62877910, 'type': 'private'}, 'new_chat_member': None, 'photo': [], 'date': 1503186625, 'from': {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}, 'message_id': 32, 'new_chat_members': [], 'delete_chat_photo': False, 'new_chat_photo': [], 'group_chat_created': False, 'text': 'How we can contact you ?'}
+2017-08-19 16:50:24,904 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:50:24,905 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:50:24] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:50:28,145 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:50:28] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:50:30,194 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:50:30] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:50:49,085 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:50:49,088 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:50:49,748 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:50:49,750 - telegram.bot - DEBUG - True
+2017-08-19 16:50:49,750 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:50:49,751 - root - INFO - WebHook was set
+2017-08-19 16:50:49,767 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:50:49,772 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:50:54,362 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:50:54,365 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:50:55,012 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:50:55,014 - telegram.bot - DEBUG - True
+2017-08-19 16:50:55,014 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:50:55,014 - root - INFO - WebHook was set
+2017-08-19 16:50:55,031 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:50:55,052 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:51:19,911 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:51:19,913 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:51:20,562 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 16:51:20,564 - telegram.bot - DEBUG - {'new_chat_photo': [], 'chat': {'id': 62877910, 'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'type': 'private'}, 'message_id': 36, 'new_chat_members': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'supergroup_chat_created': False, 'channel_chat_created': False, 'text': 'Need help ?', 'entities': [], 'group_chat_created': False, 'delete_chat_photo': False, 'new_chat_member': None, 'photo': [], 'date': 1503186681}
+2017-08-19 16:51:20,565 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:51:20,566 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:51:20] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:51:24,363 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:51:24,534 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 16:51:24,536 - telegram.bot - DEBUG - {'new_chat_photo': [], 'chat': {'id': 62877910, 'last_name': 'Sukhanov', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'type': 'private'}, 'message_id': 38, 'new_chat_members': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'supergroup_chat_created': False, 'channel_chat_created': False, 'text': 'How we can contact you ?', 'entities': [], 'group_chat_created': False, 'delete_chat_photo': False, 'new_chat_member': None, 'photo': [], 'date': 1503186685}
+2017-08-19 16:51:24,536 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:51:24,537 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:51:24] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:51:27,087 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:51:27] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:51:43,041 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:51:43] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:51:54,580 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:51:54,584 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:51:55,248 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:51:55,251 - telegram.bot - DEBUG - True
+2017-08-19 16:51:55,251 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:51:55,251 - root - INFO - WebHook was set
+2017-08-19 16:51:55,269 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:51:55,274 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:51:59,828 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:51:59,831 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:52:00,523 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:52:00,525 - telegram.bot - DEBUG - True
+2017-08-19 16:52:00,526 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:52:00,526 - root - INFO - WebHook was set
+2017-08-19 16:52:00,545 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:52:00,565 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:52:12,628 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:52:12,629 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:52:13,279 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 16:52:13,281 - telegram.bot - DEBUG - {'entities': [], 'photo': [], 'date': 1503186733, 'chat': {'last_name': 'Sukhanov', 'id': 62877910, 'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit'}, 'new_chat_member': None, 'message_id': 42, 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_photo': [], 'new_chat_members': [], 'supergroup_chat_created': False, 'from': {'id': 403419597, 'first_name': 'HelpMeBot', 'username': 'i_need_help_bot'}, 'group_chat_created': False, 'text': 'Need help ?'}
+2017-08-19 16:52:13,282 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:52:13,283 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:52:13] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:52:16,383 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:52:16,561 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 16:52:16,563 - telegram.bot - DEBUG - {'entities': [], 'photo': [], 'date': 1503186737, 'chat': {'last_name': 'Sukhanov', 'id': 62877910, 'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit'}, 'new_chat_member': None, 'message_id': 44, 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_photo': [], 'new_chat_members': [], 'supergroup_chat_created': False, 'from': {'id': 403419597, 'first_name': 'HelpMeBot', 'username': 'i_need_help_bot'}, 'group_chat_created': False, 'text': 'How we can contact you ?'}
+2017-08-19 16:52:16,563 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:52:16,564 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:52:16] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:52:21,808 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:52:21,985 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 16:52:21,987 - telegram.bot - DEBUG - {'entities': [], 'photo': [], 'date': 1503186742, 'chat': {'last_name': 'Sukhanov', 'id': 62877910, 'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit'}, 'new_chat_member': None, 'message_id': 46, 'delete_chat_photo': False, 'channel_chat_created': False, 'new_chat_photo': [], 'new_chat_members': [], 'supergroup_chat_created': False, 'from': {'id': 403419597, 'first_name': 'HelpMeBot', 'username': 'i_need_help_bot'}, 'group_chat_created': False, 'text': 'Event organizers will contact and help you'}
+2017-08-19 16:52:21,987 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:52:21,988 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:52:21] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:52:51,535 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 16:52:51,624 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:52:56,656 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:52:56,659 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:52:57,314 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:52:57,316 - telegram.bot - DEBUG - True
+2017-08-19 16:52:57,317 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:52:57,317 - root - INFO - WebHook was set
+2017-08-19 16:52:57,337 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:52:57,366 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:53:53,617 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:53:53,619 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:53:54,265 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:53:54,267 - telegram.bot - DEBUG - True
+2017-08-19 16:53:54,267 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:53:54,268 - root - INFO - WebHook was set
+2017-08-19 16:53:54,286 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:53:54,292 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:53:58,869 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:53:58,872 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:53:59,494 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:53:59,496 - telegram.bot - DEBUG - True
+2017-08-19 16:53:59,496 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:53:59,497 - root - INFO - WebHook was set
+2017-08-19 16:53:59,511 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:53:59,530 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:54:41,244 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:54:41,245 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:54:41,890 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 16:54:41,892 - telegram.bot - DEBUG - {'group_chat_created': False, 'from': {'first_name': 'HelpMeBot', 'username': 'i_need_help_bot', 'id': 403419597}, 'text': 'Need help ?', 'delete_chat_photo': False, 'entities': [], 'photo': [], 'new_chat_member': None, 'date': 1503186882, 'chat': {'first_name': 'Alexander', 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'type': 'private', 'id': 62877910}, 'channel_chat_created': False, 'supergroup_chat_created': False, 'message_id': 48, 'new_chat_photo': [], 'new_chat_members': []}
+2017-08-19 16:54:41,893 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:54:41,895 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:54:41] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:54:49,166 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:54:49,345 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 16:54:49,347 - telegram.bot - DEBUG - {'group_chat_created': False, 'from': {'first_name': 'HelpMeBot', 'username': 'i_need_help_bot', 'id': 403419597}, 'text': 'How we can contact you ?', 'delete_chat_photo': False, 'entities': [], 'photo': [], 'new_chat_member': None, 'date': 1503186889, 'chat': {'first_name': 'Alexander', 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'type': 'private', 'id': 62877910}, 'channel_chat_created': False, 'supergroup_chat_created': False, 'message_id': 50, 'new_chat_photo': [], 'new_chat_members': []}
+2017-08-19 16:54:49,348 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:54:49,349 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:54:49] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:54:53,158 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:54:53,332 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 16:54:53,334 - telegram.bot - DEBUG - {'group_chat_created': False, 'from': {'first_name': 'HelpMeBot', 'username': 'i_need_help_bot', 'id': 403419597}, 'text': 'Event organizers will contact and help you', 'delete_chat_photo': False, 'entities': [], 'photo': [], 'new_chat_member': None, 'date': 1503186893, 'chat': {'first_name': 'Alexander', 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'type': 'private', 'id': 62877910}, 'channel_chat_created': False, 'supergroup_chat_created': False, 'message_id': 52, 'new_chat_photo': [], 'new_chat_members': []}
+2017-08-19 16:54:53,334 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:54:53,335 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:54:53] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:55:38,563 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:55:38,566 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:55:39,246 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:55:39,250 - telegram.bot - DEBUG - True
+2017-08-19 16:55:39,250 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:55:39,251 - root - INFO - WebHook was set
+2017-08-19 16:55:39,272 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 16:55:39,278 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 16:55:43,933 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 16:55:43,937 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:55:44,588 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 16:55:44,590 - telegram.bot - DEBUG - True
+2017-08-19 16:55:44,590 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 16:55:44,591 - root - INFO - WebHook was set
+2017-08-19 16:55:44,608 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 16:55:44,627 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 16:56:19,536 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:56:19,538 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 16:56:20,304 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 16:56:20,305 - telegram.bot - DEBUG - {'new_chat_members': [], 'from': {'first_name': 'HelpMeBot', 'id': 403419597, 'username': 'i_need_help_bot'}, 'delete_chat_photo': False, 'entities': [], 'message_id': 54, 'chat': {'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit', 'id': 62877910, 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'new_chat_photo': [], 'new_chat_member': None, 'channel_chat_created': False, 'text': 'Need help ?', 'photo': [], 'group_chat_created': False, 'date': 1503186980}
+2017-08-19 16:56:20,306 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:56:20,307 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:56:20] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:56:23,120 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:56:23,288 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 16:56:23,290 - telegram.bot - DEBUG - {'new_chat_members': [], 'from': {'first_name': 'HelpMeBot', 'id': 403419597, 'username': 'i_need_help_bot'}, 'delete_chat_photo': False, 'entities': [], 'message_id': 56, 'chat': {'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit', 'id': 62877910, 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'new_chat_photo': [], 'new_chat_member': None, 'channel_chat_created': False, 'text': 'How we can contact you ?', 'photo': [], 'group_chat_created': False, 'date': 1503186983}
+2017-08-19 16:56:23,291 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:56:23,292 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:56:23] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 16:56:30,441 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 16:56:30,613 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 16:56:30,616 - telegram.bot - DEBUG - {'new_chat_members': [], 'from': {'first_name': 'HelpMeBot', 'id': 403419597, 'username': 'i_need_help_bot'}, 'delete_chat_photo': False, 'entities': [], 'message_id': 58, 'chat': {'first_name': 'Alexander', 'type': 'private', 'username': 'mistergorearhitektorsmit', 'id': 62877910, 'last_name': 'Sukhanov'}, 'supergroup_chat_created': False, 'new_chat_photo': [], 'new_chat_member': None, 'channel_chat_created': False, 'text': 'Event organizers will contact and help you', 'photo': [], 'group_chat_created': False, 'date': 1503186991}
+2017-08-19 16:56:30,616 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 16:56:30,617 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 16:56:30] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:06:37,536 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 17:06:37,648 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:06:42,918 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:06:42,921 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:06:43,586 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:06:43,589 - telegram.bot - DEBUG - True
+2017-08-19 17:06:43,590 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:06:43,590 - root - INFO - WebHook was set
+2017-08-19 17:06:43,612 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:06:43,633 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:07:42,306 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:07:42,307 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:07:43,051 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 304
+2017-08-19 17:07:43,054 - telegram.bot - DEBUG - {'group_chat_created': False, 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'supergroup_chat_created': False, 'delete_chat_photo': False, 'new_chat_member': None, 'new_chat_members': [], 'photo': [], 'chat': {'id': 62877910, 'username': 'mistergorearhitektorsmit', 'type': 'private', 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'date': 1503187662, 'new_chat_photo': [], 'entities': [], 'message_id': 60, 'text': 'Send your photo for identification', 'channel_chat_created': False}
+2017-08-19 17:07:43,055 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:07:43,057 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:07:43] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:08:02,931 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:08:02] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:10:43,097 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:10:43,101 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:10:43,764 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:10:43,766 - telegram.bot - DEBUG - True
+2017-08-19 17:10:43,766 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:10:43,766 - root - INFO - WebHook was set
+2017-08-19 17:10:43,785 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:10:43,789 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:10:48,334 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:10:48,337 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:10:48,986 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:10:48,988 - telegram.bot - DEBUG - True
+2017-08-19 17:10:48,988 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:10:48,988 - root - INFO - WebHook was set
+2017-08-19 17:10:49,003 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:10:49,055 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:11:01,999 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:11:02,001 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:11:02,645 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 304
+2017-08-19 17:11:02,647 - telegram.bot - DEBUG - {'new_chat_photo': [], 'photo': [], 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'new_chat_members': [], 'delete_chat_photo': False, 'channel_chat_created': False, 'chat': {'username': 'mistergorearhitektorsmit', 'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'new_chat_member': None, 'group_chat_created': False, 'date': 1503187862, 'supergroup_chat_created': False, 'message_id': 63, 'entities': [], 'text': 'Send your photo for identification'}
+2017-08-19 17:11:02,647 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:11:02,648 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:11:02] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:11:26,700 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:11:26,879 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 17:11:26,881 - telegram.bot - DEBUG - {'new_chat_photo': [], 'photo': [], 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'new_chat_members': [], 'delete_chat_photo': False, 'channel_chat_created': False, 'chat': {'username': 'mistergorearhitektorsmit', 'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'new_chat_member': None, 'group_chat_created': False, 'date': 1503187886, 'supergroup_chat_created': False, 'message_id': 65, 'entities': [], 'text': 'Need help ?'}
+2017-08-19 17:11:26,881 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:11:26,883 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:11:26] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:11:30,489 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:11:34,420 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 17:11:34,422 - telegram.bot - DEBUG - {'new_chat_photo': [], 'photo': [], 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'new_chat_members': [], 'delete_chat_photo': False, 'channel_chat_created': False, 'chat': {'username': 'mistergorearhitektorsmit', 'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'new_chat_member': None, 'group_chat_created': False, 'date': 1503187890, 'supergroup_chat_created': False, 'message_id': 67, 'entities': [], 'text': 'How we can contact you ?'}
+2017-08-19 17:11:34,423 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:11:34,424 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:11:34] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:11:36,149 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:11:36,323 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 17:11:36,326 - telegram.bot - DEBUG - {'new_chat_photo': [], 'photo': [], 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'new_chat_members': [], 'delete_chat_photo': False, 'channel_chat_created': False, 'chat': {'username': 'mistergorearhitektorsmit', 'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'new_chat_member': None, 'group_chat_created': False, 'date': 1503187896, 'supergroup_chat_created': False, 'message_id': 69, 'entities': [], 'text': 'Event organizers will contact and help you'}
+2017-08-19 17:11:36,326 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:11:36,327 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:11:36] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:14:45,531 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:14:45,534 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:14:46,166 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:14:46,168 - telegram.bot - DEBUG - True
+2017-08-19 17:14:46,169 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:14:46,169 - root - INFO - WebHook was set
+2017-08-19 17:14:46,187 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:14:46,192 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:14:50,773 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:14:50,777 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:14:51,424 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:14:51,426 - telegram.bot - DEBUG - True
+2017-08-19 17:14:51,427 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:14:51,427 - root - INFO - WebHook was set
+2017-08-19 17:14:51,442 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:14:51,462 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:15:14,815 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:15:14,816 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:15:15,432 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 153
+2017-08-19 17:15:15,434 - telegram.bot - DEBUG - {'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/5244667436995815421.jpg', 'file_size': 1533, 'file_id': 'AgADAgAD_acxGz_NyEhbjktfVXh6wg4VSw0ABGFF9bqsS1ZEneYNAAEC'}
+2017-08-19 17:15:15,435 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:15:15,586 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/5244667436995815421.jpg HTTP/1.1" 200 1533
+2017-08-19 17:15:15,588 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:15:15,755 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 17:15:15,758 - telegram.bot - DEBUG - {'group_chat_created': False, 'new_chat_member': None, 'entities': [], 'new_chat_photo': [], 'new_chat_members': [], 'message_id': 71, 'channel_chat_created': False, 'photo': [], 'supergroup_chat_created': False, 'delete_chat_photo': False, 'date': 1503188115, 'chat': {'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'type': 'private', 'id': 62877910, 'last_name': 'Sukhanov'}, 'text': 'Need help ?', 'from': {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}}
+2017-08-19 17:15:15,758 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:15:15,761 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:15:15] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:16:08,616 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:16:08,621 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:16:11,113 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:16:11,116 - telegram.bot - DEBUG - True
+2017-08-19 17:16:11,116 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:16:11,116 - root - INFO - WebHook was set
+2017-08-19 17:16:11,138 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:16:11,142 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:16:15,850 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:16:15,854 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:16:16,507 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:16:16,508 - telegram.bot - DEBUG - True
+2017-08-19 17:16:16,508 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:16:16,509 - root - INFO - WebHook was set
+2017-08-19 17:16:16,526 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:16:16,548 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:16:42,133 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:16:42,134 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:16:42,799 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 143
+2017-08-19 17:16:42,801 - telegram.bot - DEBUG - {'file_size': 86297, 'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_0.jpg', 'file_id': 'AgADAgAD_qcxGz_NyEhvAAGc2QdTHvckg7cNAAQBq2h6kEgcWNcFBAABAg'}
+2017-08-19 17:16:42,801 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:16:43,113 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_0.jpg HTTP/1.1" 200 86297
+2017-08-19 17:16:43,418 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:16:43,590 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 17:16:43,592 - telegram.bot - DEBUG - {'message_id': 73, 'from': {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}, 'text': 'Need help ?', 'new_chat_member': None, 'group_chat_created': False, 'chat': {'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'type': 'private', 'id': 62877910}, 'supergroup_chat_created': False, 'new_chat_photo': [], 'delete_chat_photo': False, 'new_chat_members': [], 'photo': [], 'date': 1503188203, 'channel_chat_created': False, 'entities': []}
+2017-08-19 17:16:43,593 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:16:43,594 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:16:43] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:17:54,744 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:17:54,921 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 141
+2017-08-19 17:17:54,923 - telegram.bot - DEBUG - {'file_size': 86349, 'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_1.jpg', 'file_id': 'AgADAgAD_6cxGz_NyEh-IRrX6B1KbAE4Sw0ABOvIBVnzmTI95gMOAAEC'}
+2017-08-19 17:17:54,923 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:18:05,447 - telegram.bot - DEBUG - Entering: get_me
+2017-08-19 17:18:05,652 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getMe HTTP/1.1" 200 91
+2017-08-19 17:18:05,653 - telegram.bot - DEBUG - {'username': 'i_need_help_bot', 'first_name': 'HelpMeBot', 'id': 403419597}
+2017-08-19 17:18:05,653 - telegram.bot - DEBUG - Exiting: get_me
+2017-08-19 17:19:15,297 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "GET /file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_1.jpg HTTP/1.1" 200 86349
+2017-08-19 17:19:20,838 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:19:20,840 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:19:24,413 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:19:24,415 - telegram.bot - DEBUG - True
+2017-08-19 17:19:24,415 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:19:24,416 - root - INFO - WebHook was set
+2017-08-19 17:19:24,438 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:19:24,444 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:19:29,322 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:19:29,325 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:19:34,518 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 17:19:34,518 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x108386160>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:19:34,519 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 17:19:39,685 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=1, connect=None, read=None, redirect=None)
+2017-08-19 17:19:39,687 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x108386160>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:19:39,688 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3): api.telegram.org
+2017-08-19 17:19:44,856 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=0, connect=None, read=None, redirect=None)
+2017-08-19 17:19:44,857 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x108386160>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:19:44,858 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (4): api.telegram.org
+2017-08-19 17:20:17,244 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:20:17,247 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:20:22,453 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 17:20:22,454 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10aad9208>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:20:22,455 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 17:20:27,625 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=1, connect=None, read=None, redirect=None)
+2017-08-19 17:20:27,626 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10aad9208>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:20:27,626 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3): api.telegram.org
+2017-08-19 17:20:33,795 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=0, connect=None, read=None, redirect=None)
+2017-08-19 17:20:33,796 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10aad9208>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:20:33,797 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (4): api.telegram.org
+2017-08-19 17:20:53,573 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:20:53,576 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:21:09,766 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 17:21:09,768 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10eee71d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:21:09,768 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 17:21:14,985 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=1, connect=None, read=None, redirect=None)
+2017-08-19 17:21:14,987 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10eee71d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:21:14,989 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3): api.telegram.org
+2017-08-19 17:21:22,178 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=0, connect=None, read=None, redirect=None)
+2017-08-19 17:21:22,180 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x10eee71d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:21:22,181 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (4): api.telegram.org
+2017-08-19 17:22:12,121 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:22:12,124 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:22:13,905 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 57
+2017-08-19 17:22:13,907 - telegram.bot - DEBUG - True
+2017-08-19 17:22:13,908 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:22:13,908 - root - INFO - WebHook was set
+2017-08-19 17:22:13,929 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:22:13,935 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:22:18,873 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:22:18,876 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:22:24,047 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 17:22:24,048 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x109951160>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:22:24,049 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 17:22:26,251 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:22:26,253 - telegram.bot - DEBUG - True
+2017-08-19 17:22:26,254 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:22:26,254 - root - INFO - WebHook was set
+2017-08-19 17:22:26,278 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:22:26,295 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:22:31,574 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:22:31,575 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:22:32,880 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 141
+2017-08-19 17:22:32,881 - telegram.bot - DEBUG - {'file_id': 'AgADAgAD_6cxGz_NyEh-IRrX6B1KbAE4Sw0ABOvIBVnzmTI95gMOAAEC', 'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_1.jpg', 'file_size': 86349}
+2017-08-19 17:22:32,881 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:22:35,992 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:22:40,150 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 17:22:40,154 - telegram.bot - DEBUG - {'group_chat_created': False, 'message_id': 75, 'date': 1503188560, 'supergroup_chat_created': False, 'new_chat_photo': [], 'chat': {'type': 'private', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'id': 62877910}, 'entities': [], 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_member': None, 'photo': [], 'text': 'Need help ?', 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'delete_chat_photo': False}
+2017-08-19 17:22:40,155 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:22:40,160 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:22:40] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:22:45,416 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:22:45,589 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 17:22:45,591 - telegram.bot - DEBUG - {'group_chat_created': False, 'message_id': 77, 'date': 1503188565, 'supergroup_chat_created': False, 'new_chat_photo': [], 'chat': {'type': 'private', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'id': 62877910}, 'entities': [], 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_member': None, 'photo': [], 'text': 'How we can contact you ?', 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'delete_chat_photo': False}
+2017-08-19 17:22:45,592 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:22:45,595 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:22:45] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:22:48,706 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:22:48,882 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 17:22:48,886 - telegram.bot - DEBUG - {'group_chat_created': False, 'message_id': 79, 'date': 1503188568, 'supergroup_chat_created': False, 'new_chat_photo': [], 'chat': {'type': 'private', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'id': 62877910}, 'entities': [], 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_member': None, 'photo': [], 'text': 'Event organizers will contact and help you', 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'delete_chat_photo': False}
+2017-08-19 17:22:48,887 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:22:48,889 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:22:48] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:24:07,529 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:24:07,700 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 140
+2017-08-19 17:24:07,701 - telegram.bot - DEBUG - {'file_id': 'AgADAgAEqDEbP83ISDrdXR4aUM7kuC9LDQAEA1GYWJBIXt_Q_g0AAQI', 'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_2.jpg', 'file_size': 78457}
+2017-08-19 17:24:07,702 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:24:07,702 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:24:07,876 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 281
+2017-08-19 17:24:07,880 - telegram.bot - DEBUG - {'group_chat_created': False, 'message_id': 81, 'date': 1503188647, 'supergroup_chat_created': False, 'new_chat_photo': [], 'chat': {'type': 'private', 'username': 'mistergorearhitektorsmit', 'first_name': 'Alexander', 'last_name': 'Sukhanov', 'id': 62877910}, 'entities': [], 'channel_chat_created': False, 'new_chat_members': [], 'new_chat_member': None, 'photo': [], 'text': 'Need help ?', 'from': {'username': 'i_need_help_bot', 'id': 403419597, 'first_name': 'HelpMeBot'}, 'delete_chat_photo': False}
+2017-08-19 17:24:07,883 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:24:07,887 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:24:07] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:36:29,875 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:36:29,879 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:36:30,579 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:36:30,581 - telegram.bot - DEBUG - True
+2017-08-19 17:36:30,581 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:36:30,581 - root - INFO - WebHook was set
+2017-08-19 17:36:30,601 - werkzeug - INFO -  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2017-08-19 17:36:30,606 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:36:35,170 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:36:35,173 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:36:35,814 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook HTTP/1.1" 200 64
+2017-08-19 17:36:35,816 - telegram.bot - DEBUG - True
+2017-08-19 17:36:35,816 - telegram.bot - DEBUG - Exiting: set_webhook
+2017-08-19 17:36:35,817 - root - INFO - WebHook was set
+2017-08-19 17:36:35,832 - werkzeug - WARNING -  * Debugger is active!
+2017-08-19 17:36:35,850 - werkzeug - INFO -  * Debugger PIN: 272-759-660
+2017-08-19 17:38:41,550 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:38:41,551 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:38:42,239 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 304
+2017-08-19 17:38:42,242 - telegram.bot - DEBUG - {'new_chat_members': [], 'new_chat_member': None, 'group_chat_created': False, 'new_chat_photo': [], 'message_id': 83, 'delete_chat_photo': False, 'text': 'Send your photo for identification', 'date': 1503189522, 'chat': {'type': 'private', 'id': 62877910, 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'supergroup_chat_created': False, 'entities': [], 'photo': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'channel_chat_created': False}
+2017-08-19 17:38:42,243 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:38:42,244 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:38:42] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:38:53,072 - telegram.bot - DEBUG - Entering: get_file
+2017-08-19 17:38:53,249 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/getFile HTTP/1.1" 200 141
+2017-08-19 17:38:53,250 - telegram.bot - DEBUG - {'file_size': 77390, 'file_id': 'AgADAgADAagxGz_NyEgyPWcpJXeca-sTSw0ABJhHIRmTtaCLRPENAAEC', 'file_path': 'https://api.telegram.org/file/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/photos/file_3.jpg'}
+2017-08-19 17:38:53,251 - telegram.bot - DEBUG - Exiting: get_file
+2017-08-19 17:38:53,251 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:38:53,442 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 301
+2017-08-19 17:38:53,444 - telegram.bot - DEBUG - {'new_chat_members': [], 'new_chat_member': None, 'group_chat_created': False, 'new_chat_photo': [], 'message_id': 85, 'delete_chat_photo': False, 'text': 'Hi, Alex! \n Do you need help ?', 'date': 1503189533, 'chat': {'type': 'private', 'id': 62877910, 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'supergroup_chat_created': False, 'entities': [], 'photo': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'channel_chat_created': False}
+2017-08-19 17:38:53,445 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:38:53,446 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:38:53] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:38:59,257 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:38:59,444 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 294
+2017-08-19 17:38:59,447 - telegram.bot - DEBUG - {'new_chat_members': [], 'new_chat_member': None, 'group_chat_created': False, 'new_chat_photo': [], 'message_id': 87, 'delete_chat_photo': False, 'text': 'How we can contact you ?', 'date': 1503189539, 'chat': {'type': 'private', 'id': 62877910, 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'supergroup_chat_created': False, 'entities': [], 'photo': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'channel_chat_created': False}
+2017-08-19 17:38:59,448 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:38:59,450 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:38:59] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:39:02,536 - telegram.bot - DEBUG - Entering: send_message
+2017-08-19 17:39:02,725 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - https://api.telegram.org:443 "POST /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/sendMessage HTTP/1.1" 200 312
+2017-08-19 17:39:02,729 - telegram.bot - DEBUG - {'new_chat_members': [], 'new_chat_member': None, 'group_chat_created': False, 'new_chat_photo': [], 'message_id': 89, 'delete_chat_photo': False, 'text': 'Event organizers will contact and help you', 'date': 1503189542, 'chat': {'type': 'private', 'id': 62877910, 'username': 'mistergorearhitektorsmit', 'last_name': 'Sukhanov', 'first_name': 'Alexander'}, 'supergroup_chat_created': False, 'entities': [], 'photo': [], 'from': {'id': 403419597, 'username': 'i_need_help_bot', 'first_name': 'HelpMeBot'}, 'channel_chat_created': False}
+2017-08-19 17:39:02,730 - telegram.bot - DEBUG - Exiting: send_message
+2017-08-19 17:39:02,731 - werkzeug - INFO - 127.0.0.1 - - [19/Aug/2017 17:39:02] "POST /403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg HTTP/1.1" 200 -
+2017-08-19 17:40:04,037 - werkzeug - INFO -  * Detected change in '/Users/sp41mer/Hackathon/telegram_bot.py', reloading
+2017-08-19 17:40:04,133 - werkzeug - INFO -  * Restarting with stat
+2017-08-19 17:40:09,616 - telegram.bot - DEBUG - Entering: set_webhook
+2017-08-19 17:40:09,620 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.telegram.org
+2017-08-19 17:40:15,812 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=2, connect=None, read=None, redirect=None)
+2017-08-19 17:40:15,813 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x103f0b1d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:40:15,814 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): api.telegram.org
+2017-08-19 17:40:25,052 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=1, connect=None, read=None, redirect=None)
+2017-08-19 17:40:25,053 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x103f0b1d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:40:25,054 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (3): api.telegram.org
+2017-08-19 17:40:30,220 - telegram.vendor.ptb_urllib3.urllib3.util.retry - DEBUG - Incremented Retry for (url='/bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook'): Retry(total=0, connect=None, read=None, redirect=None)
+2017-08-19 17:40:30,221 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x103f0b1d0>, 'Connect timed out. (connect timeout=5.0)')': /bot403419597:AAGxU8F6aj4RWyqwGwU-_I35GYLl9SwRbSg/setWebhook
+2017-08-19 17:40:30,222 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (4): api.telegram.org
