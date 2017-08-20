@@ -1,6 +1,7 @@
 import datetime
 import telegram
 from app import bot
+from user import User
 
 
 class TelegramBot:
@@ -44,15 +45,20 @@ class TelegramBot:
         return self.request['message'].get('location')
 
     def parse_commands(self):
-        # Если только начали
         if self.message_text == self.start_command:
+            print(self.chat_id)
             bot.send_message(chat_id=self.chat_id, text='Send your photo for identification',
                              reply_markup={"hide_keyboard": True})
         if self.minimal_size_photo:
             new_file = bot.get_file(self.minimal_size_photo)
-            # Вот тут идем в апиху и берем Имя
+            name, event = User.get_name_by_chat_content(chat_id)
+            lat, long = User.get_geo_by_chat_content(chat_id)
             if True:
                 print(new_file.file_path)
+                bot.send_message(chat_id=self.chat_id, text='Hi {}, upcoming event is '
+                                                            '{}'.format(name, event),
+                                 reply_markup={"hide_keyboard": True})
+                bot.send_location(chat_id=self.chat_id, latitude=lat, longitude=long)
                 self.send_help_carousel()
             else:
                 bot.send_message(chat_id=self.chat_id,
@@ -64,12 +70,13 @@ class TelegramBot:
         if self.message_contact:
             bot.send_message(chat_id=self.chat_id, text='Event organizers will contact and help you',
                              reply_markup={"hide_keyboard": True})
+            User.notify_orginizer(self.chat_id)
 
     @classmethod
     def get_date(cls, date):
         return datetime.datetime.strptime(date.split('T')[0], '%Y-%m-%d').date()
 
-    def send_help_carousel(self, text='Alex'):
+    def send_help_carousel(self):
         custom_keyboard = [
             [
                 {"text": "I need help",
@@ -81,7 +88,7 @@ class TelegramBot:
         ]
         reply_markup = telegram.ReplyKeyboardMarkup(custom_keyboard)
         bot.send_message(chat_id=self.chat_id,
-                         text='Hi, {}! \nDo you need help ?'.format(text),
+                         text='Do you need help ?',
                          reply_markup=reply_markup)
 
     def send_get_contacts_carousel(self, text='How we can contact you ?'):
@@ -101,11 +108,3 @@ class TelegramBot:
         bot.send_message(chat_id=self.chat_id,
                          text=text,
                          reply_markup=reply_markup)
-
-MAP, CONTACT = 1, 2
-redis_structure = {
-    "chat_id": '1223',
-    "user_id": '12',
-    "help_activated": True,
-    "help_step": MAP
-}
